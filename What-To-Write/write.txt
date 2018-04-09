@@ -1,0 +1,60 @@
+World Health Organisation : 
+
+Website : https://hariprasad786.github.io/World-Health-organization/
+
+Code : https://github.com/Hariprasad786/World-Health-organization
+
+WHO began when our Constitution came into force on 7 April 1948 – a date we now celebrate every year as World Health Day. We are now more than 7000 people working in 150 country offices, in 6 regional offices and at our headquarters in Geneva.
+
+In this website , I created 4 sections 
+
+1.) Menu Section (Header)
+2.) SideBar Section
+3.) Content Section
+4.) Copyright Section (Footer)
+
+Menu Section : Logo  and 4 menus as Home , About , Contact , Feedback
+Sidebar Section : Highlights, Health Topics , Data , Media Centef , Programmes , Governance
+Content Section : In this The Corresponding Menu or Sidebar menu have Contents 
+Coyright Section : Copyright © 2018 Hari Prasad
+
+The Menu Section are in <headed></header>
+Sidebar Section are in <div class="sidebar"></div>
+Content Section are in <div class="content"></div>
+Footer Section are in <footer></footer>
+
+In the Content Section There are tabs in which News , Headlines , Data etc. are placed They are written in 
+
+<div class="tabs">
+	<div class="tab">
+		Content Heading
+	</div>
+	<div class="tab-content">
+		Content Here
+	</div>
+</div>
+
+Structure of Folders : 
+
+> assests 
+  > css
+    > main.css (Sanheen Sethi Library)
+    > navbar.css
+    > sidebar.css
+  > images
+  > logo
+> index.html
+> about.html
+> contact.html
+> data.html
+> feedback.html
+> governance.html
+> healthtopics.html
+> highlights.html
+> mediacenter.html
+> programmes.html
+
+main.css : Changes the Font Style of Page , having some extra classes for Buttons , forms etc .
+
+All Contents Taken From who.int
+All Pictures Taken From who.int
